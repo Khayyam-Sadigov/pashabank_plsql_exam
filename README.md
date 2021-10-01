@@ -47,6 +47,8 @@ Mandatory: The solution must be configurable. It should be easy to add call to a
 30.10.2021	ŞƏNBƏ<br />
 31.10.2021	BAZAR<br />
 
+2 solutions: SQL only and with PL/SQL<br />
+
 10.* Create a trigger that will log the compilation of every :<br />
 •	View<br />
 •	Function<br />
