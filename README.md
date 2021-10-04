@@ -60,5 +60,7 @@ Mandatory: The solution must be configurable. It should be easy to add call to a
 •	compile_time<br />
 •	username<br />
 •	machine_name<br />
+•	object_name<br />
+•	object_type<br />
 •	code_before<br />
 •	code_after<br />
